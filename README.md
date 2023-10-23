@@ -1,2 +1,19 @@
-# Essai-Penerapan-AI
-berisi Penerapan AI dalam sistem parkir otomatis berbasis AI untuk mengatasi krisis lahan parkir dalam suatu kota
+Nama	: Ambrosius Lingga Praditya
+NIM	: 5311421001
+Prodi	: Teknik Elektro
+
+
+# Peran Teknologi AI dalam mengatasi Krisis parkir di Kota Semarang
+
+## Pendahuluan
+Untuk saat ini peningkatan jumlah kendaraan sangat signifikan tercatat pada akhir 2022, jumlah mobil penumpang di Indonesia mencapai sekitar 17,2 juta unit dan data ini didapat dari laporan Badan Pusat Statistik 2023. Selain pengguna kendaraan umum, jumlah pengguna kendaraan pribadi di Indonesia mencapai 148.212.865 menurut badan pusat statistic tahun 2022. Tentunya dengan pengguna kendaraan yang sangat banyak terutama di kota semarang akan menyebabkan susanya mencari lahan parkir dan terlalu membuang-buang waktu untuk mencari tempat parkir yang masih kosong. Maka dari permasalahan yang ada, penulis berencana menerapkan peran teknologi AI ini untuk membantu mengatasi krisis parkir di kota semarang sehingga memudahkan pengendara mobil ataupun motor dalam mencari lahan parkir dengan mudah dan efisien.
+
+Secara sederhana peran teknologi AI dalam system parkir ini untuk membantu mendeteksi jumlah kendaraan yang masuk ke dalam perkiran dan mencatat plat nomor kendaraan tersebut secara real-time, hal ini penting dilakukan untuk mendata jumlah kendaraan dan penentuan tarif biaya setiap kendaraan serta menampilkan jumlah kendaraan mobil dan motor yang terdapat dalam parkiran tersebut dengan menampilkannya pada sebuah aplikasi mobile yang menampilkan ketersediaan lahan parkir dan jumlah tarif parkir secara real-time.
+
+## Pembahasan
+Dalam pengembangan teknologi AI dalam mengatasi krisis parkir di kota semarang melibatkan beberapa metodologi dan pendekatan teknis seperti pengenalan gambar dan objek dengan melibatkan penggunaan algoritma dan jaringan saraf tiruan seperti CNN untuk mendeteksi jumlah kendaraan dan plat nomor. Terdapat teknologi sensor seperti ultrasonic untuk mendeterksi jumlah kendaraan dalam tempat parkir tersebut sehingga memudahkan dalam pengoptimalan lahan parkir, Selain itu terdapat metode mechine learning untuk mengelola dan menganalisis data kendaraan yang dihasilkan oleh sensor dan kamera yang terdapat di pintu masuk lahan parkir. Terdapat pemrosesan data secara real-time untuk memberikan informasi real-time yang akan diproses dalam sebuah aplikasi mobile yang berperan seperti system monitoring. Dan terdapat jaringan sensor dan IoT yang berguna untuk menghubungkan sensor dan perangkat di lahan parkir ke smartphone pengendara yang dapat dilihat atau dipantau melalui aplikasi parkir tersebut.
+
+Sistem parkir otomatis berbasis AI mendeteksi kendaraan melalui sensor dan kamera, mengidentifikasi jenis kendaraan dan pelat nomor menggunakan algoritma kecerdasan buatan, serta memproses data secara real time untuk memberikan informasi ruang kosong. Sistem ini mengatur dan mengelola tempat parkir, memberi tahu pengguna melalui aplikasi seluler dan memungkinkan pembayaran otomatis. Integrasi sistem yang baik dan perlindungan data yang ketat menjadikan sistem ini efektif dalam meningkatkan pengalaman parkir dan mengoptimalkan pemanfaatan ruang parkir.
+
+## Kesimpulan
+Dengan menerapkan system parkir otomatis berbasis AI pada lahan parkir dapat mengatasi krisis lahan parkir dalam suatu kota Semarang, dan dengan adanya system ini yang dapat dipantau juga melalui aplikasi mobile tentu dapat memudahkan pengendara untuk mencari lokasi parkir yang masih tersedia karena melalui aplikasi tersebut memberikan informasi ketersediaan lahan parkir pada suatu tempat. Selain itu aplikasi ini juga memberikan informasi tarif parkir yang sudah dihitung oleh system karena system ini bekerja secara real-time dalam pencatatan waktu. Sehingga dapat disimpulkan dengan adanya sistem parkir otomatis berbasis AI efisien dalam mengelola lahan parkir, memberikan informasi kepada pengguna, dan memungkinkan pembayaran otomatis, sehingga mengoptimalkan pengalaman parkir dan pemanfaatan ruang parkir secara keseluruhan
